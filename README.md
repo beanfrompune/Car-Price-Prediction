@@ -53,6 +53,3 @@ Access the dataset on Kaggle [here](https://www.kaggle.com/nehalbirla/vehicle-da
 2. Open the `Polynomial_Regression_and_Regularization.ipynb` notebook in Jupyter.
 3. Execute all cells to see the analysis and results.
 
-## 🔗 Additional Resources
-- **Kaggle Notebook**: Interested in a Kaggle environment? Check out the notebook [here](https://www.kaggle.com/code/farzadnekouei/polynomial-regression-regularization-assumptions).
-- **LinkedIn**: [Farzad Nekouei's Profile](https://www.linkedin.com/in/farzad-nekouei-7535aa53/)
